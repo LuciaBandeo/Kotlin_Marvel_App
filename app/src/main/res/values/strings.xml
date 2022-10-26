@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppMarvel</string>
+    <string name="text_view_main_activity_description">This app shows a list of characters and their characteristics from the Marvel Universe</string>
+    <string name="text_button_main_activity">GO TO APP</string>
+    <string name="error_message_char_not_found">The characters were not found</string>
+    <string name="error_message_character_not_found">Could not find the character</string>
+    <string name="error_message_not_exception">An error occurred</string>
+    <string name="text_view_char_activity_title">List of characters</string>
+    <string name="text_view_character_name">name of the character</string>
+    <string name="empty_description">The character does not have a description</string>
+</resources>
